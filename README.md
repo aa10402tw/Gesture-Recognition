@@ -4,9 +4,9 @@
 ![image](imgs/model_architecture.jpg)  <br>
 
 
-### Result 
-![image](imgs/result_img.jpg) <br>
-... <br>
-... <br>
+### Result (Dataset)
+![image](imgs/result1.jpg) 
 
+### Result (Dataset)
+![image](imgs/result2.gif) 
 
