@@ -5,7 +5,7 @@
 
 
 ### Result 
-![image](imgs/result_img.jpg =400x300) <br>
+![image](imgs/result_img.jpg) <br>
 ... <br>
 ... <br>
 
