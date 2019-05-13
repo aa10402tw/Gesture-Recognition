@@ -5,7 +5,7 @@
 
 
 ### Result 
-![image](result/result_img.jpg) <br>
+![image](imgs/result_img.jpg) <br>
 ... <br>
 ... <br>
 
