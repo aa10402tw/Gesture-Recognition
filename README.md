@@ -1,9 +1,7 @@
 # Gesture-Recognition
 
 ### Model Architecture
-![image](https://github.com/aa10402tw/Gesture-Recognition/tree/master/imgs/model_architecture.jpg =200x100) <br>
-... <br>
-...<br>
+![image](https://github.com/aa10402tw/Gesture-Recognition/tree/master/imgs/model_architecture.jpg)
 
 
 ### Result 
