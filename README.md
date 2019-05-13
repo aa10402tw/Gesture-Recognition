@@ -2,7 +2,7 @@
 
 ### Model Architecture
 ![image]
-<img src="https://github.com/aa10402tw/Gesture-Recognition/tree/master/imgs/model_architecture.jpg" title="Github Logo">(https://github.com/aa10402tw/Gesture-Recognition/tree/master/imgs/model_architecture.jpg=250x250) <br>
+<img src="https://github.com/aa10402tw/Gesture-Recognition/tree/master/imgs/model_architecture.jpg" title="Github Logo">(https://github.com/aa10402tw/Gesture-Recognition/tree/master/imgs/model_architecture.jpg =200x100) <br>
 ... <br>
 ...<br>
 
